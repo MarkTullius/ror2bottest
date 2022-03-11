@@ -1,0 +1,14 @@
+C:\Users\Mark\source\repos\dingoBotTest\bin\Debug\netcoreapp3.1\dingoBotTest.exe
+C:\Users\Mark\source\repos\dingoBotTest\bin\Debug\netcoreapp3.1\dingoBotTest.deps.json
+C:\Users\Mark\source\repos\dingoBotTest\bin\Debug\netcoreapp3.1\dingoBotTest.runtimeconfig.json
+C:\Users\Mark\source\repos\dingoBotTest\bin\Debug\netcoreapp3.1\dingoBotTest.runtimeconfig.dev.json
+C:\Users\Mark\source\repos\dingoBotTest\bin\Debug\netcoreapp3.1\dingoBotTest.dll
+C:\Users\Mark\source\repos\dingoBotTest\bin\Debug\netcoreapp3.1\dingoBotTest.pdb
+C:\Users\Mark\source\repos\dingoBotTest\obj\Debug\netcoreapp3.1\dingoBotTest.csproj.AssemblyReference.cache
+C:\Users\Mark\source\repos\dingoBotTest\obj\Debug\netcoreapp3.1\dingoBotTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mark\source\repos\dingoBotTest\obj\Debug\netcoreapp3.1\dingoBotTest.AssemblyInfoInputs.cache
+C:\Users\Mark\source\repos\dingoBotTest\obj\Debug\netcoreapp3.1\dingoBotTest.AssemblyInfo.cs
+C:\Users\Mark\source\repos\dingoBotTest\obj\Debug\netcoreapp3.1\dingoBotTest.csproj.CoreCompileInputs.cache
+C:\Users\Mark\source\repos\dingoBotTest\obj\Debug\netcoreapp3.1\dingoBotTest.dll
+C:\Users\Mark\source\repos\dingoBotTest\obj\Debug\netcoreapp3.1\dingoBotTest.pdb
+C:\Users\Mark\source\repos\dingoBotTest\obj\Debug\netcoreapp3.1\dingoBotTest.genruntimeconfig.cache
